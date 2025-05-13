@@ -30,7 +30,7 @@
 | [Political Bias Detector](https://github.com/Dooopinder/News-Bias-In-India) | Fine-tuned BERT model classifying news articles as left/right/neutral + sentiment |
 | [CPWD Tender Analyzer](https://github.com/Dooopinder/CivilBot-WebScraping-Excel) | NLP system to parse NIT PDFs, extract criteria, and estimate bidding eligibility (WIP) |
 | [Face + Gaze Surveillance App](https://github.com/Dooopinder/FaceTrack-Surveillance-GUI) | Eye movement logger with violation detection, known/unknown face tracking |
-| [Big Data Pipeline Simulator (In progress)](#) | Visual demo of DAG scheduling, Spark transformations & shuffle phases |
+| [Big Data Pipeline Simulator ](https://github.com/Dooopinder/Big-Data-Pipeline-Simulator) | Visual demo of DAG scheduling, Spark transformations & shuffle phases |
 
 ---
 

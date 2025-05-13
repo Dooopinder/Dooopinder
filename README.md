@@ -41,7 +41,7 @@
 ---
 
 ## 📫 Let's Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tejas-verma)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tejas-verma-40b156286/)
 
 > *Always looking to collaborate on AI for real-world impact.*
 

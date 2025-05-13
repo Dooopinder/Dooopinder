@@ -28,8 +28,8 @@
 | Project | Description |
 |--------|-------------|
 | [Political Bias Detector](https://github.com/Dooopinder/News-Bias-In-India) | Fine-tuned BERT model classifying news articles as left/right/neutral + sentiment |
-| [CPWD Tender Analyzer](#) | NLP system to parse NIT PDFs, extract criteria, and estimate bidding eligibility (WIP) |
-| [Face + Gaze Surveillance App](#) | Eye movement logger with violation detection, known/unknown face tracking |
+| [CPWD Tender Analyzer](https://github.com/Dooopinder/CivilBot-WebScraping-Excel) | NLP system to parse NIT PDFs, extract criteria, and estimate bidding eligibility (WIP) |
+| [Face + Gaze Surveillance App](https://github.com/Dooopinder/FaceTrack-Surveillance-GUI) | Eye movement logger with violation detection, known/unknown face tracking |
 | [Big Data Pipeline Simulator (In progress)](#) | Visual demo of DAG scheduling, Spark transformations & shuffle phases |
 
 ---
